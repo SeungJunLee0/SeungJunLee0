@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/-Python-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 <br/>
 

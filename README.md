@@ -4,16 +4,23 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-
+![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
 <br/>
+
+
 
 <!--
 **SeungJunLee0/SeungJunLee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

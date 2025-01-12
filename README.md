@@ -4,9 +4,7 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-![Shell](https://img.shields.io/badge/Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
 
 <br/>
 

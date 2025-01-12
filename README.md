@@ -4,8 +4,8 @@
 <br />
 <h2> My tech stack 📚 </h2>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 <br/>
 
 <!--
